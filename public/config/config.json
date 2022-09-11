@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4c5081a2d843D8586D0b3D221ec08A34Ec0d182f",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4c5081a2d843D8586D0b3D221ec08A34Ec0d182f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "DicyMinty",
+  "SYMBOL": "DCM",
+  "MAX_SUPPLY": 10123,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 35,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/dicyminty",
+  "SHOW_BACKGROUND": true
+}
